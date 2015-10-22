@@ -1,8 +1,8 @@
 Package.describe({
   name: 'vazco:ci-test',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'Ignore this package it does nothing',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/vazco/meteor-ci-test-repo',
   // By default, Meteor will default to using README.md for documentation.
